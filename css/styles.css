@@ -40,7 +40,7 @@ body {
 }
 
 .container {
-    width: 1200;
+    width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
@@ -233,7 +233,7 @@ img {
     font-family: inherit;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1.9;
+    line-height: 1.88;
     text-align: center;
     letter-spacing: 0.06em;
 }
@@ -344,6 +344,11 @@ img {
     line-height: 1.2;
     text-align: center;
     margin-bottom: 30px;
+}
+
+.team-img {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 /* Портфолио */
